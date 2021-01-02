@@ -1,21 +1,17 @@
-[![Deploy with Vercel](https://vercel.co/button)](https://vercel.co/new/project?template=https://github.com/aryanvikash/react-dev-portfolio)
+<div align="center">
+  <h1>Personal Website</h1><br/>
+  <i><a href="https://www.arupmandal.github.io" target="_blank">arupmandal.github.io</a></i><br/>
+  <i>Template by LekoArts</i>
+  <h3>Under Progress 🚧</h3>
+  <h5>(This is just a placeholder website for now, main site is under development)</h5>
+</div>
 
-## Developer Portfolio In NEXTJS
+### 1. Install Dependencies
+```shell
+npm install
+```
 
-____
-### Host it on netlify or vercel
-
-    Replace varible name From config.js file
-
-### variable Names
-
-    tgUsername: "iamarupmandal",
-    githubUsername: "arupmandal",
-    websiteName: "arupmandal.github.io",
-    heroHead: "Hi There !!",
-    heroText: "I’m ArupMandal and I’m Just a nub Developer!",
-    facebookUsername: "iamarupmandal",
-    instaUsername: "iamarupmandal",
-### Run it on local
-    npm install
-    npm run dev
+### 2. Run the site
+```shell
+gatsby develop
+```
