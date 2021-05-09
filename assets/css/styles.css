@@ -300,8 +300,17 @@ img{
 .skills__ux{
   width: 85%;
 }
+.skills__react{
+	width: 75%;
+}
+.skills__msoffice{
+	width: 85%;
+}
+.skills__wordpress{
+	width: 80%;
+}
 .skills__img{
-  border-radius: .5rem;
+  border-radius: .7rem;
 }
 
 /* ===== WORK =====*/
